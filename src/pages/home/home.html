@@ -1,14 +1,33 @@
 <ion-header>
   <ion-navbar>
     <ion-title>
-      Ionic Blank
+      Home Page
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <ion-list>
+    <ion-item>
+      <ion-label color="primary">Commodity</ion-label>
+      <ion-input type="text" [(ngModel)]="commodity" placeholder="Text Input"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label color="primary">Year</ion-label>
+      <ion-input type="number" [(ngModel)]="year" placeholder="Number Input" maxlength="4"></ion-input>
+    </ion-item>
+  </ion-list>
+  <div>
+    <button ion-button (click)="chartPage()">Show Chart</button>
+  </div>
+  <div>
+    <button ion-button (click)="loadData()">Load Data</button>
+  </div>
+  <div>
+    <button ion-button (click)="commChartPage()">Comm Chart</button>
+  </div>
+  <div>
+    <button ion-button center (click)="captureLocation()">Capture Location</button>
+  </div>
+  <div #map id="map" ></div>
 </ion-content>

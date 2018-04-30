@@ -1,0 +1,756 @@
+[{
+	"document_id" : "1",
+	"address" : "Ahmedabad(Fruit Market, Naroda), Ahmedabad, Gujarat",
+	"latitude" : "23.022505",
+	"longitude" : "72.5713621"
+},
+{
+	"document_id" : "277",
+	"address" : "Ahmedabad(Manekchowk), Ahmedabad, Gujarat",
+	"latitude" : "23.0593632",
+	"longitude" : "72.5205615"
+},
+{
+	"document_id" : "552",
+	"address" : "Deesa(Deesa Veg Yard), Banaskanth, Gujarat",
+	"latitude" : "24.3070289",
+	"longitude" : "72.3514618"
+},
+{
+	"document_id" : "709",
+	"address" : "Bharuch, Gujarat",
+	"latitude" : "21.7051358",
+	"longitude" : "72.9958748"
+},
+{
+	"document_id" : "833",
+	"address" : "Mansa(Manas Veg Yard), Gandhinagar, Gujarat",
+	"latitude" : "23.2156354",
+	"longitude" : "72.63694149999999"
+},
+{
+	"document_id" : "882",
+	"address" : "Anjar(Veg,Sub Yard), Kachchh, Gujarat",
+	"latitude" : "23.7337326",
+	"longitude" : "69.8597406"
+},
+{
+	"document_id" : "994",
+	"address" : "Chikhali, Navsari, Gujarat",
+	"latitude" : "20.9467019",
+	"longitude" : "72.95203479999999"
+},
+{
+	"document_id" : "1200",
+	"address" : "Gondal(Veg.market Gondal), Rajkot, Gujarat",
+	"latitude" : "22.3038945",
+	"longitude" : "70.80215989999999"
+},
+{
+	"document_id" : "1333",
+	"address" : "Vadodara(Navapura), Vadodara(Baroda), Gujarat",
+	"latitude" : "22.3071588",
+	"longitude" : "73.1812187"
+},
+{
+	"document_id" : "1510",
+	"address" : "Pardi, Valsad, Gujarat",
+	"latitude" : "20.5992349",
+	"longitude" : "72.9342451"
+},
+{
+	"document_id" : "1801",
+	"address" : "Pardi(Motavagachiya), Valsad, Gujarat",
+	"latitude" : "21.2455591",
+	"longitude" : "72.8648899"
+},
+{
+	"document_id" : "2093",
+	"address" : "Pardi(Rohinee), Valsad, Gujarat",
+	"latitude" : "20.616546",
+	"longitude" : "72.9297213"
+},
+{
+	"document_id" : "2379",
+	"address" : "Pardi(Ugvada), Valsad, Gujarat",
+	"latitude" : "20.4940708",
+	"longitude" : "72.8946806"
+},
+{
+	"document_id" : "2662",
+	"address" : "Pardi(Vapi), Valsad, Gujarat",
+	"latitude" : "20.4940708",
+	"longitude" : "72.8946806"
+},
+{
+	"document_id" : "2949",
+	"address" : "Valsad, Valsad, Gujarat",
+	"latitude" : "20.6067002",
+	"longitude" : "72.894973"
+},
+{
+	"document_id" : "3073",
+	"address" : "Valsad(Dungari), Valsad, Gujarat",
+	"latitude" : "20.6891171",
+	"longitude" : "72.9458866"
+},
+{
+	"document_id" : "3174",
+	"address" : "Ambala City, Ambala, Haryana",
+	"latitude" : "30.3721234",
+	"longitude" : "76.7424073"
+},
+{
+	"document_id" : "3190",
+	"address" : "Ambala City(Subji Mandi), Ambala, Haryana",
+	"latitude" : "30.372114",
+	"longitude" : "76.7424072"
+},
+{
+	"document_id" : "3205",
+	"address" : "Barara, Ambala, Haryana",
+	"latitude" : "30.211272",
+	"longitude" : "77.0313045"
+},
+{
+	"document_id" : "3260",
+	"address" : "Naraingarh, Ambala, Haryana",
+	"latitude" : "30.4793369",
+	"longitude" : "77.1129941"
+},
+{
+	"document_id" : "3364",
+	"address" : "Bhiwani, Bhiwani, Haryana",
+	"latitude" : "28.799044499999997",
+	"longitude" : "76.13351120000002"
+},
+{
+	"document_id" : "3478",
+	"address" : "Ballabhgarh, Faridabad, Haryana",
+	"latitude" : "28.3393114",
+	"longitude" : "77.3085124"
+},
+{
+	"document_id" : "3508",
+	"address" : "Faridabad, Faridabad, Haryana",
+	"latitude" : "28.4024636",
+	"longitude" : "77.1789877"
+},
+{
+	"document_id" : "3594",
+	"address" : "Fatehabad, Fatehabad, Haryana",
+	"latitude" : "29.5077159",
+	"longitude" : "75.4519516"
+},
+{
+	"document_id" : "3759",
+	"address" : "Jakhal, Fatehabad, Haryana",
+	"latitude" : "29.8059433",
+	"longitude" : "75.8178091"
+},
+{
+	"document_id" : "3777",
+	"address" : "Ratia, Fatehabad, Haryana",
+	"latitude" : "29.6729201",
+	"longitude" : "75.5603919"
+},
+{
+	"document_id" : "3867",
+	"address" : "Tohana(New Veg Market), Fatehabad, Haryana",
+	"latitude" : "29.7161973",
+	"longitude" : "75.8851462"
+},
+{
+	"document_id" : "3873",
+	"address" : "Pataudi, Gurgaon, Haryana",
+	"latitude" : "28.4594965",
+	"longitude" : "77.0266383"
+},
+{
+	"document_id" : "3927",
+	"address" : "Barwala(Hisar), Hissar, Haryana",
+	"latitude" : "29.3670269",
+	"longitude" : "75.8838128"
+},
+{
+	"document_id" : "4034",
+	"address" : "Hisar, Hissar, Haryana",
+	"latitude" : "29.1491875",
+	"longitude" : "75.7216527"
+},
+{
+	"document_id" : "4123",
+	"address" : "Narnaund, Hissar, Haryana",
+	"latitude" : "29.2209493",
+	"longitude" : "76.1329365"
+},
+{
+	"document_id" : "4130",
+	"address" : "Uklana, Hissar, Haryana",
+	"latitude" : "29.5138461",
+	"longitude" : "75.8726769"
+},
+{
+	"document_id" : "4263",
+	"address" : "Jhajjar, Jhajar, Haryana",
+	"latitude" : "28.6065383",
+	"longitude" : "76.6402617"
+},
+{
+	"document_id" : "4394",
+	"address" : "Asandh, Karnal, Haryana",
+	"latitude" : "29.5197081",
+	"longitude" : "76.6153792"
+},
+{
+	"document_id" : "4428",
+	"address" : "Iamailabad, Kurukshetra, Haryana",
+	"latitude" : "29.969512100000003",
+	"longitude" : "76.878282"
+},
+{
+	"document_id" : "4429",
+	"address" : "Ladwa, Kurukshetra, Haryana",
+	"latitude" : "29.9937078",
+	"longitude" : "77.0381926"
+},
+{
+	"document_id" : "4491",
+	"address" : "Shahabad, Kurukshetra, Haryana",
+	"latitude" : "30.1586036",
+	"longitude" : "76.8524604"
+},
+{
+	"document_id" : "4618",
+	"address" : "Thanesar, Kurukshetra, Haryana",
+	"latitude" : "29.965522",
+	"longitude" : "76.7961246"
+},
+{
+	"document_id" : "4677",
+	"address" : "Ateli, Mahendragarh-Narnaul, Haryana",
+	"latitude" : "28.1085452",
+	"longitude" : "76.2491132"
+},
+{
+	"document_id" : "4692",
+	"address" : "Khanina, Mahendragarh-Narnaul, Haryana",
+	"latitude" : "28.1299314",
+	"longitude" : "76.1468271"
+},
+{
+	"document_id" : "4702",
+	"address" : "Mohindergarh, Mahendragarh-Narnaul, Haryana",
+	"latitude" : "28.0524985",
+	"longitude" : "76.0761531"
+},
+{
+	"document_id" : "4864",
+	"address" : "Narnaul, Mahendragarh-Narnaul, Haryana",
+	"latitude" : "28.0524985",
+	"longitude" : "76.0761531"
+},
+{
+	"document_id" : "4980",
+	"address" : "Taura, Mewat, Haryana",
+	"latitude" : "28.010691599999998",
+	"longitude" : "77.0564464"
+},
+{
+	"document_id" : "5205",
+	"address" : "Palwal, Palwal, Haryana",
+	"latitude" : "28.1487362",
+	"longitude" : "77.3320262"
+},
+{
+	"document_id" : "5211",
+	"address" : "kalanwali, Sirsa, Haryana",
+	"latitude" : "29.8310922",
+	"longitude" : "74.9590301"
+},
+{
+	"document_id" : "5305",
+	"address" : "Sirsa, Sirsa, Haryana",
+	"latitude" : "29.533593099999994",
+	"longitude" : "75.0177029"
+},
+{
+	"document_id" : "5510",
+	"address" : "Ganaur, Sonipat, Haryana",
+	"latitude" : "29.1334419",
+	"longitude" : "77.0118426"
+},
+{
+	"document_id" : "5538",
+	"address" : "Gohana, Sonipat, Haryana",
+	"latitude" : "29.1389745",
+	"longitude" : "76.6785406"
+},
+{
+	"document_id" : "5602",
+	"address" : "Jagadhri, Yamuna Nagar, Haryana",
+	"latitude" : "30.1585366",
+	"longitude" : "77.2640771"
+},
+{
+	"document_id" : "5620",
+	"address" : "Yamuna Nagar, Yamuna Nagar, Haryana",
+	"latitude" : "30.1321679",
+	"longitude" : "77.2351926"
+},
+{
+	"document_id" : "5767",
+	"address" : "Bilaspur, Bilaspur, Himachal Pradesh",
+	"latitude" : "31.342942599999994",
+	"longitude" : "76.7625073"
+},
+{
+	"document_id" : "5768",
+	"address" : "Hamirpur, Hamirpur, Himachal Pradesh",
+	"latitude" : "31.6861745",
+	"longitude" : "76.52130919999999"
+},
+{
+	"document_id" : "5787",
+	"address" : "Hamirpur(Nadaun), Hamirpur, Himachal Pradesh",
+	"latitude" : "31.7806412",
+	"longitude" : "76.3340806"
+},
+{
+	"document_id" : "5793",
+	"address" : "Kangra, Kangra, Himachal Pradesh",
+	"latitude" : "32.099803099999995",
+	"longitude" : "76.2691006"
+},
+{
+	"document_id" : "5797",
+	"address" : "Dhanotu (Mandi), Mandi, Himachal Pradesh",
+	"latitude" : "21.9944511",
+	"longitude" : "68.2458031"
+},
+{
+	"document_id" : "5805",
+	"address" : "Mandi, Mandi, Himachal Pradesh",
+	"latitude" : "31.708165499999996",
+	"longitude" : "76.9313675"
+},
+{
+	"document_id" : "5819",
+	"address" : "Solan, Solan, Himachal Pradesh",
+	"latitude" : "30.904485700000002",
+	"longitude" : "77.0967357"
+},
+{
+	"document_id" : "5839",
+	"address" : "Una, Una, Himachal Pradesh",
+	"latitude" : "31.468445",
+	"longitude" : "76.2707745"
+},
+{
+	"document_id" : "5865",
+	"address" : "Binny Mill (F&V),Bangalore, Karnataka",
+	"latitude" : "12.9652738",
+	"longitude" : "77.5604986"
+},
+{
+	"document_id" : "6100",
+	"address" : "Hoskote, Bangalore, Karnataka",
+	"latitude" : "13.068936",
+	"longitude" : "77.7793114"
+},
+{
+	"document_id" : "6111",
+	"address" : "Malur, Kolar, Karnataka",
+	"latitude" : "12.9995672",
+	"longitude" : "77.9323772"
+},
+{
+	"document_id" : "6113",
+	"address" : "Somvarpet, Madikeri(Kodagu), Karnataka",
+	"latitude" : "12.4244205",
+	"longitude" : "75.7381856"
+},
+{
+	"document_id" : "6114",
+	"address" : "Bandipalya, Mysore, Karnataka",
+	"latitude" : "12.295810399999999",
+	"longitude" : "76.6393805"
+},
+{
+	"document_id" : "6117",
+	"address" : "Udupi, Udupi, Karnataka",
+	"latitude" : "13.3408807",
+	"longitude" : "74.7421427"
+},
+{
+	"document_id" : "6165",
+	"address" : "Kondotty, Malappuram, Kerala",
+	"latitude" : "11.1481463",
+	"longitude" : "75.9574936"
+},
+{
+	"document_id" : "6174",
+	"address" : "Manjeri, Malappuram, Kerala",
+	"latitude" : "11.1176158",
+	"longitude" : "76.0945445"
+},
+{
+	"document_id" : "6450",
+	"address" : "Parappanangadi, Malappuram, Kerala",
+	"latitude" : "11.0475628",
+	"longitude" : "75.8423629"
+},
+{
+	"document_id" : "6537",
+	"address" : "Perinthalmanna, Malappuram, Kerala",
+	"latitude" : "10.9738966",
+	"longitude" : "76.2127441"
+},
+{
+	"document_id" : "6698",
+	"address" : "Thirurrangadi, Malappuram, Kerala",
+	"latitude" : "11.0417886",
+	"longitude" : "75.9190313"
+},
+{
+	"document_id" : "6810",
+	"address" : "Bhopal(F&V), Bhopal, Madhya Pradesh",
+	"latitude" : "23.2599333",
+	"longitude" : "77.412615"
+},
+{
+	"document_id" : "6840",
+	"address" : "Indore(F&V), Indore, Madhya Pradesh",
+	"latitude" : "22.7195687",
+	"longitude" : "75.8577258"
+},
+{
+	"document_id" : "6887",
+	"address" : "Ahmednagar, Ahmednagar, Maharashtra",
+	"latitude" : "19.0952075",
+	"longitude" : "74.7495916"
+},
+{
+	"document_id" : "6888",
+	"address" : "Rahuri, Ahmednagar, Maharashtra",
+	"latitude" : "19.3942899",
+	"longitude" : "74.6419374"
+},
+{
+	"document_id" : "6937",
+	"address" : "Shrirampur, Ahmednagar, Maharashtra",
+	"latitude" : "19.618434",
+	"longitude" : "74.6411774"
+},
+{
+	"document_id" : "7045",
+	"address" : "Amarawati, Amarawati, Maharashtra",
+	"latitude" : "20.930384999999998",
+	"longitude" : "77.75874999999999"
+},
+{
+	"document_id" : "7212",
+	"address" : "Amrawati(Frui & Veg. Market), Amarawati, Maharashtra",
+	"latitude" : "21.0016402",
+	"longitude" : "77.8040529"
+},
+{
+	"document_id" : "7405",
+	"address" : "Aurangabad, Aurangabad, Maharashtra",
+	"latitude" : "19.8761653",
+	"longitude" : "75.3433139"
+},
+{
+	"document_id" : "7507",
+	"address" : "Chandrapur, Chandrapur, Maharashtra",
+	"latitude" : "19.970459700000003",
+	"longitude" : "79.30148450000002"
+},
+{
+	"document_id" : "7595",
+	"address" : "Jalgaon, Jalgaon, Maharashtra",
+	"latitude" : "21.0076578",
+	"longitude" : "75.5626039"
+},
+{
+	"document_id" : "7603",
+	"address" : "Kolhapur, Kolhapur, Maharashtra",
+	"latitude" : "16.7049873",
+	"longitude" : "74.24325270000001"
+},
+{
+	"document_id" : "7705",
+	"address" : "Fruit Market, Mumbai, Maharashtra",
+	"latitude" : "19.0888755",
+	"longitude" : "72.7818789"
+},
+{
+	"document_id" : "7864",
+	"address" : "Mumbai, Mumbai, Maharashtra",
+	"latitude" : "19.0759837",
+	"longitude" : "72.8776559"
+},
+{
+	"document_id" : "7962",
+	"address" : "Nagpur, Nagpur, Maharashtra",
+	"latitude" : "21.1458004",
+	"longitude" : "79.0881546"
+},
+{
+	"document_id" : "8216",
+	"address" : "Ramtek, Nagpur, Maharashtra",
+	"latitude" : "21.395899",
+	"longitude" : "79.314358"
+},
+{
+	"document_id" : "8217",
+	"address" : "Osmanabad, Osmanabad, Maharashtra",
+	"latitude" : "18.1860659",
+	"longitude" : "76.0419409"
+},
+{
+	"document_id" : "8251",
+	"address" : "Sangli(Phale, Bhajipura Market), Sangli, Maharashtra",
+	"latitude" : "16.8523973",
+	"longitude" : "74.5814773"
+},
+{
+	"document_id" : "8478",
+	"address" : "Karad, Satara, Maharashtra",
+	"latitude" : "17.6804639",
+	"longitude" : "74.018261"
+},
+{
+	"document_id" : "8776",
+	"address" : "Akluj, Sholapur, Maharashtra",
+	"latitude" : "17.8793443",
+	"longitude" : "74.9798453"
+},
+{
+	"document_id" : "8937",
+	"address" : "Barshi, Sholapur, Maharashtra",
+	"latitude" : "18.2358671",
+	"longitude" : "75.6579487"
+},
+{
+	"document_id" : "9016",
+	"address" : "Pandharpur, Sholapur, Maharashtra",
+	"latitude" : "17.6774766",
+	"longitude" : "75.3010938"
+},
+{
+	"document_id" : "9021",
+	"address" : "Sholapur, Sholapur, Maharashtra",
+	"latitude" : "17.6614569",
+	"longitude" : "75.8485765"
+},
+{
+	"document_id" : "9238",
+	"address" : "Kalyan, Thane, Maharashtra",
+	"latitude" : "19.2183307",
+	"longitude" : "72.9780897"
+},
+{
+	"document_id" : "9401",
+	"address" : "Azadpur, Delhi, NCT of Delhi",
+	"latitude" : "28.686273800000002",
+	"longitude" : "77.2217831"
+},
+{
+	"document_id" : "9638",
+	"address" : "Amritsar(Amritsar Mewa Mandi), Amritsar, Punjab",
+	"latitude" : "31.6339793",
+	"longitude" : "74.8722642"
+},
+{
+	"document_id" : "9684",
+	"address" : "Faridkot, Faridkot, Punjab",
+	"latitude" : "30.678187",
+	"longitude" : "74.7395591"
+},
+{
+	"document_id" : "9734",
+	"address" : "Sirhind, Fatehgarh, Punjab",
+	"latitude" : "29.9846687",
+	"longitude" : "75.7298805"
+},
+{
+	"document_id" : "9739",
+	"address" : "Ferozepur Cantt., Ferozpur, Punjab",
+	"latitude" : "30.9146002",
+	"longitude" : "74.5808854"
+},
+{
+	"document_id" : "9765",
+	"address" : "Firozepur City, Ferozpur, Punjab",
+	"latitude" : "30.9319375",
+	"longitude" : "74.5892517"
+},
+{
+	"document_id" : "9780",
+	"address" : "Guru Har Sahai, Ferozpur, Punjab",
+	"latitude" : "30.7077467",
+	"longitude" : "74.389243"
+},
+{
+	"document_id" : "9807",
+	"address" : "Gurdaspur, Gurdaspur, Punjab",
+	"latitude" : "32.041942399999996",
+	"longitude" : "75.40533669999999"
+},
+{
+	"document_id" : "9851",
+	"address" : "Dasuya, Hoshiarpur, Punjab",
+	"latitude" : "31.8151192",
+	"longitude" : "75.6435388"
+},
+{
+	"document_id" : "9863",
+	"address" : "Garh Shankar(Mahalpur), Hoshiarpur, Punjab",
+	"latitude" : "31.3646808",
+	"longitude" : "76.0285574"
+},
+{
+	"document_id" : "9893",
+	"address" : "Phagwara, kapurthala, Punjab",
+	"latitude" : "31.3714801",
+	"longitude" : "75.3936808"
+},
+{
+	"document_id" : "9907",
+	"address" : "Ludhiana, Ludhiana, Punjab",
+	"latitude" : "30.900965",
+	"longitude" : "75.8572758"
+},
+{
+	"document_id" : "9981",
+	"address" : "Mansa, Mansa, Punjab",
+	"latitude" : "29.999506900000004",
+	"longitude" : "75.3936808"
+},
+{
+	"document_id" : "10044",
+	"address" : "Malout, Muktsar, Punjab",
+	"latitude" : "30.1909227",
+	"longitude" : "74.4614063"
+},
+{
+	"document_id" : "10067",
+	"address" : "Muktsar, Muktsar, Punjab",
+	"latitude" : "30.476639100000003",
+	"longitude" : "74.511172"
+},
+{
+	"document_id" : "10157",
+	"address" : "Nawan Shahar(Subzi Mandi),Nawanshahr, Punjab",
+	"latitude" : "31.091295399999996",
+	"longitude" : "76.0391909"
+},
+{
+	"document_id" : "10170",
+	"address" : "Dudhansadhan, Patiala, Punjab",
+	"latitude" : "30.1481851",
+	"longitude" : "76.5236352"
+},
+{
+	"document_id" : "10170",
+	"address" : "Samana, Patiala, Punjab",
+	"latitude" : "30.1569613",
+	"longitude" : "76.1798428"
+},
+{
+	"document_id" : "10190",
+	"address" : "Bhawanigarh, Sangrur, Punjab",
+	"latitude" : "30.263614",
+	"longitude" : "76.012636"
+},
+{
+	"document_id" : "10267",
+	"address" : "Dhuri, Sangrur, Punjab",
+	"latitude" : "30.3756829",
+	"longitude" : "75.8433393"
+},
+{
+	"document_id" : "10288",
+	"address" : "Lehra Gaga, Sangrur, Punjab",
+	"latitude" : "29.9428215",
+	"longitude" : "75.7984229"
+},
+{
+	"document_id" : "10323",
+	"address" : "Sangrur, Sangrur, Punjab",
+	"latitude" : "30.2422085",
+	"longitude" : "75.8077663"
+},
+{
+	"document_id" : "10376",
+	"address" : "Ajmer(F&V), Ajmer, Rajasthan",
+	"latitude" : "26.4498954",
+	"longitude" : "74.6399163"
+},
+{
+	"document_id" : "10378",
+	"address" : "Chittorgarh, Chittorgarh, Rajasthan",
+	"latitude" : "24.8887435",
+	"longitude" : "74.6269216"
+},
+{
+	"document_id" : "10434",
+	"address" : "Sriganganagar(F&V), Ganganagar, Rajasthan",
+	"latitude" : "29.903839899999998",
+	"longitude" : "73.87719009999999"
+},
+{
+	"document_id" : "10487",
+	"address" : "Jalore, Jalore, Rajasthan",
+	"latitude" : "25.3444799",
+	"longitude" : "72.6253763"
+},
+{
+	"document_id" : "10604",
+	"address" : "Jodhpur(F&V)(Bhadwasia), Jodhpur, Rajasthan",
+	"latitude" : "26.2389469",
+	"longitude" : "73.02430939999999"
+},
+{
+	"document_id" : "10697",
+	"address" : "Udaipur(F&V), Udaipur, Rajasthan",
+	"latitude" : "24.585445",
+	"longitude" : "73.712479"
+},
+{
+	"document_id" : "10843",
+	"address" : "Gaddiannaram, Hyderabad, Telangana",
+	"latitude" : "17.385044",
+	"longitude" : "78.486671"
+},
+{
+	"document_id" : "11074",
+	"address" : "Dehradoon, Dehradoon, Uttrakhand",
+	"latitude" : "30.316494499999997",
+	"longitude" : "78.03219179999999"
+},
+{
+	"document_id" : "11080",
+	"address" : "Vikasnagar, Dehradoon, Uttrakhand",
+	"latitude" : "30.47307",
+	"longitude" : "77.7445428"
+},
+{
+	"document_id" : "11173",
+	"address" : "Haridwar Union, Haridwar, Uttrakhand",
+	"latitude" : "29.9456906",
+	"longitude" : "78.16424780000001"
+},
+{
+	"document_id" : "11185",
+	"address" : "Roorkee, Haridwar, Uttrakhand",
+	"latitude" : "29.8613648",
+	"longitude" : "77.8598063"
+},
+{
+	"document_id" : "11198",
+	"address" : "Kashipur, UdhamSinghNagar, Uttrakhand",
+	"latitude" : "28.960965299999998",
+	"longitude" : "79.5153773"
+}]
